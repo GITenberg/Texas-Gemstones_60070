@@ -1,0 +1,26 @@
+_repo: Texas-Gemstones_60070
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Elbert A.
+    alias: King, Bert
+    birthdate: 1935
+    deathdate: 1998
+    gutenberg_agent_id: '50772'
+    url: http://www.gutenberg.org/2009/agents/50772
+description: ''
+gutenberg_issued: '2019-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mineralogy -- Texas'
+- !lcsh 'Precious stones -- Texas'
+- !lcc 'QE'
+- GITenberg
+title: Texas Gemstones
+url: http://www.gutenberg.org/ebooks/60070
